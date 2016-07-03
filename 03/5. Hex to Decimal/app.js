@@ -6,5 +6,6 @@ function solve(args) {
     decimal = parseInt(input, 16);
 
     console.log(decimal);
+    
 
 }
